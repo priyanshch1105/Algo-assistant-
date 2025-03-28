@@ -17,14 +17,14 @@ AI Engine: OpenAI GPT, LangChain
 Database: IPFS/Algorand State Storage
 Frontend: Flutter / React.js
 🎯 Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/algo-assistant-chatbot.git
-cd algo-assistant-chatbot
-2️⃣ Install Dependencies
-Backend
-pip install -r requirements.txt
-Frontend
-cd frontend
+<Br>1️⃣ Clone the Repository</Br>
+<Br>git clone https://github.com/yourusername/algo-assistant-chatbot.git</Br>
+<Br>cd algo-assistant-chatbot</Br>
+<Br>2️⃣ Install Dependencies
+<Br>Backend
+<Br>pip install -r requirements.txt
+<Br>Frontend
+<Br>cd frontend
 npm install  # or flutter pub get
 3️⃣ Set Up Algorand Node
 Follow the official guide to set up an Algorand Sandbox:
